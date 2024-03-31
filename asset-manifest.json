@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/heatmapp/static/css/main.f855e6bc.css",
+    "main.js": "/heatmapp/static/js/main.72430b0f.js",
+    "static/js/453.1cef7286.chunk.js": "/heatmapp/static/js/453.1cef7286.chunk.js",
+    "static/media/logo.svg": "/heatmapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/heatmapp/index.html",
+    "main.f855e6bc.css.map": "/heatmapp/static/css/main.f855e6bc.css.map",
+    "main.72430b0f.js.map": "/heatmapp/static/js/main.72430b0f.js.map",
+    "453.1cef7286.chunk.js.map": "/heatmapp/static/js/453.1cef7286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.72430b0f.js"
+  ]
+}
